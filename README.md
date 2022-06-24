@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/Aishwarya-Ramakrishnan22/Aishu-Portfolio/blob/master/Portfolio/astro-removebg-preview.png" width="200" />
 </div>
 <h1 align="center">
-  Aishu-Portfolio
+  Abilash-Portfolio
 </h1>
 <p align="center">
   The first iteration of <a href="https://abilash--portfolio.herokuapp.com/" target="_blank">https://abilash--portfolio.herokuapp.com/</a> i've coded in Html5, javaScript and react as a framework.  and hosted with <a href="https://www.heroko.com/" target="_blank">Heroko</a>
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-![demo](https://github.com/Abilash-K/Abilash-Portfolio/blob/master/Images/abi.PNG)
+![demo]()
 
 
 
